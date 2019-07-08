@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"see",
+				"seed_state"
+			],
+			[
+				"Ma",
+				"MatrixLQR"
+			],
+			[
+				"u_",
+				"u_seq"
+			],
+			[
+				"x_",
+				"x_seq"
+			],
+			[
+				"x_se",
+				"x_seq_full"
+			],
+			[
+				"Id",
+				"IDs"
+			],
+			[
+				"u_s",
+				"u_seq"
+			],
+			[
+				"u_se",
+				"u_seq_full"
+			],
+			[
+				"ID",
+				"IDs"
+			],
+			[
+				"V",
+				"Vector2f"
+			],
+			[
+				"new",
+				"new_lqrK"
+			],
+			[
+				"Vec",
+				"Vector6f"
+			],
+			[
+				"lq",
+				"lqr_K"
+			],
+			[
+				"MA",
+				"MatrixLQR"
+			],
+			[
+				"e",
+				"endif"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"par",
+				"parentID"
+			],
+			[
+				"vec",
+				"vector\tstd::vector"
+			],
+			[
+				"add",
+				"addNode"
+			],
+			[
+				"pa",
+				"parentID"
+			],
+			[
+				"K",
+				"Kd"
+			],
+			[
+				"n",
+				"nstates"
+			],
+			[
+				"vecot",
+				"VectorXf"
+			],
+			[
+				"vEC",
+				"VectorXf"
+			],
+			[
+				"D",
+				"Dynamics"
+			],
+			[
+				"Sat",
+				"state"
+			],
+			[
+				"Be",
+				"Beta_dot"
+			],
+			[
+				"r",
+				"r_dot"
+			],
+			[
+				"U",
+				"Uy_dot"
+			],
+			[
+				"ux",
+				"Ux_dot"
+			],
+			[
+				"Uy",
+				"Uy_world"
+			],
+			[
+				"Ux",
+				"Ux_world"
+			],
+			[
+				"dy",
+				"dynmaics_vector"
+			],
+			[
+				"Po",
+				"pos_phi"
+			],
+			[
+				"Fy",
+				"Fyf"
+			],
+			[
+				"Fx",
+				"Fxr"
+			],
+			[
+				"be",
+				"Beta"
+			],
+			[
+				"F",
+				"Fyr"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"at",
+				"atan"
+			],
+			[
+				"I",
+				"Iz"
+			],
+			[
+				"FOrce",
+				"Force_rear"
+			],
+			[
+				"Forc",
+				"Force_front"
+			],
+			[
+				"For",
+				"Force_rear"
+			],
+			[
+				"alph",
+				"alpha"
+			],
+			[
+				"al",
+				"alpha_R"
+			],
+			[
+				"C",
+				"C_alpha"
+			],
+			[
+				"C_",
+				"C_x"
+			],
+			[
+				"alp",
+				"alpha"
+			],
+			[
+				"mu",
+				"mu_spin"
+			],
+			[
+				"a",
+				"alpha_R"
+			],
+			[
+				"P",
+				"PI"
+			],
+			[
+				"ala",
+				"alpha_R"
+			],
+			[
+				"pla",
+				"planmax_time"
+			],
+			[
+				"thr",
+				"thrust_positions"
+			],
+			[
+				"fo",
+				"float"
+			],
+			[
+				"In",
+				"Inertia"
+			],
+			[
+				"ref",
+				"ref_topic"
+			],
+			[
+				"od",
+				"odom_topic"
+			],
+			[
+				"odo",
+				"odom_gen"
+			],
+			[
+				"odom",
+				"odom_pub"
+			],
+			[
+				"L",
+				"Lqr_RRT_node"
+			],
+			[
+				"occ",
+				"occupancy_grid_obs"
+			],
+			[
+				"O",
+				"OccupancyGrid_Publisher"
+			],
+			[
+				"Oc",
+				"OccupancyGrid"
+			],
+			[
+				"occy",
+				"occupancy_grid_publisher"
+			],
+			[
+				"resi",
+				"resolution"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"block",
+				"blockDim"
+			],
+			[
+				"bloc",
+				"blockDim"
+			],
+			[
+				"sin",
+				"sine_pulse"
+			],
+			[
+				"ze",
+				"zero_time_derivative"
+			],
+			[
+				"u_t",
+				"u_t_1"
+			],
+			[
+				"u_t_",
+				"u_t_1"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"TI",
+				"TIME_res"
+			],
+			[
+				"Ar",
+				"ARRAY_SIZE"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ar",
+				"array_size"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"wa",
+				"Wave_solution"
+			],
+			[
+				"bound",
+				"boundary_setter"
+			],
+			[
+				"Tim",
+				"Time_res"
+			],
+			[
+				"y",
+				"Y_res"
+			],
+			[
+				"time",
+				"TIME_res"
+			],
+			[
+				"x",
+				"x_mesh"
+			],
+			[
+				"Ti",
+				"TIME_res"
+			],
+			[
+				"tim",
+				"time_mesh"
+			],
+			[
+				"Y",
+				"Y_res"
+			],
+			[
+				"PORT",
+				"PORTA_PA3"
+			],
+			[
+				"PRT",
+				"PORTA_PA2"
+			],
+			[
+				"IN",
+				"initPWMforMotor"
+			],
+			[
+				"init",
+				"initPIT"
+			],
+			[
+				"re",
+				"result0"
+			],
+			[
+				"pro",
+				"process_result"
+			],
+			[
+				"in",
+				"integration_result"
+			],
+			[
+				"int",
+				"integration_result"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"pr",
+				"process_a"
+			],
+			[
+				"proc",
+				"proc_value"
+			],
+			[
+				"process_",
+				"process_result"
+			],
+			[
+				"clo",
+				"CLOCKS_PER_SEC"
+			],
+			[
+				"mo",
+				"monte_integration2"
+			],
+			[
+				"integra",
+				"integration_sum"
+			],
+			[
+				"inte",
+				"integration_sine_montecarlo"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"parallel",
+				"parallel_time"
+			],
+			[
+				"id",
+				"id_sum"
+			],
+			[
+				"st",
+				"step"
+			],
+			[
+				"tr",
+				"trapezoidal_integration"
+			],
+			[
+				"sine",
+				"sine_bar"
+			],
+			[
+				"ran",
+				"rand_x"
+			],
+			[
+				"ra",
+				"rand_x"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"set",
+				"setup"
+			],
+			[
+				"d",
+				"d_in"
+			],
+			[
+				"d_",
+				"d_out"
+			],
+			[
+				"h",
+				"h_out"
+			],
+			[
+				"cu",
+				"cudaMemcpyHostToDevice"
+			],
+			[
+				"cudaM",
+				"cudaMemcpy"
+			],
+			[
+				"stdi",
+				"stdio.h\tstandard header (deprecated)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include \"iLQR.h\"\n\nMatXd iLQR::rows_w_ind(MatXd &mat, VecXd &indices)\n{\n\tMatXd submat;\n  if(mat.rows() != indices.size()){\n    std::cout << \"mat.rows != indices.size\\n\";\n    return submat;\n  }\n\tfor(int i=0; i<indices.size(); i++){\n\t\tif(indices(i)>0){\n      submat.conservativeResizeLike(MatXd(submat.rows()+1, mat.cols()));\n\t\t\tsubmat.row(submat.rows()-1) = mat.row(i);\n\t\t}\n\t}\n\treturn submat;\n}\n\nint iLQR::backward_pass(const VecOfVecXd &cx, const VecOfVecXd &cu, const VecOfMatXd &cxx, const VecOfMatXd &cxu,\n\t\t\t\t\t\t\t\t\t\t\t\tconst VecOfMatXd &cuu, const VecOfMatXd &fx, const VecOfMatXd &fu, const VecOfVecXd &u,\n\n\t\t\t\t\t\t\t\t\t\t\t\tVecOfVecXd &Vx, VecOfMatXd &Vxx, VecOfVecXd &k, VecOfMatXd &K, Vec2d &dV)\n{\n/*\n// \tINPUTS\n// \t   cx: 2x(T+1)\t\t\t\t\tcu: 2x(T+1)\n// \t\t cuu: nxnx(T+1)\t\t\t\tcxx: nxnx(T+1)\tcuu: 2x2x(T+1)\n// \t\t fx: nxnx(T+1)\t\t\t\tfu: nx2x(T+1)\t\tfxx: none\n// \t\t fxu: None\t\t\t\t\t\tfuu: none\t\t\t\tu: 2xT\n//   OUTPUTS\n// \t   Vx: nx(T+1)\t\t\tVxx: nxnx(T+1)\t\t\tl:2xT\n// \t   L: 2xnxT \t\t\t\tdV: 2x1\n// \t\t diverge - returns 0 if it doesn't diverge, timestep where it diverges otherwise\n*/\n\n\t//cost-to-go at end\n\tVx[T]     = cx[T];\n\tVxx[T]    = cxx[T];\n\n\t//initialize Qu, Qx, Qxx, Qxu, Quu, k_i, K_i\n\tVecXd Qx(n);\n\tVecXd Qu(m);\n\tMatXd Qxx(n,n);\n\tMatXd Qux(m,n);\n\tMatXd Quu(m,m);\n\tVecXd k_i(m);\n\tMatXd K_i(m,n);\n\n\tfor (int i= T-1; i>=0; i--) // back up from end of trajectory\n\t{\n\t\tQx  = cx[i]      + fx[i].transpose() * Vx[i+1];\n\t\tQu  = cu[i]      + fu[i].transpose() * Vx[i+1];\n\t\t// std::cout << \"fu: \\n\" << fu[i] << '\\n';\n\t\t// std::cout << \"Vx: \\n\" << Vx[i+1] << '\\n';\n\t\t// std::cout << \"cu: \\n\" << cu[i] << '\\n';\n\n\t\tQxx = cxx[i] + fx[i].transpose()*Vxx[i+1]*fx[i];\n\n\t\tQux = cxu[i].transpose() + fu[i].transpose()*Vxx[i+1]*fx[i];\n\n    Quu = cuu[i] + fu[i].transpose()*Vxx[i+1]*fu[i];\n\n\t\t// We are using regularization type 1 (Tassa's code): q_uu+lambda*eye()\n\t\t// So Vxx does not have to be regularized\n    MatXd Vxx_reg = Vxx[i+1];\n\n\t\tMatXd Qux_reg = cxu[i].transpose() + fu[i].transpose()*Vxx_reg*fx[i];\n\n\t\t// Second term is regularization\n    MatXd QuuF = cuu[i] + fu[i].transpose()*Vxx_reg*fu[i] + lambda*Eye2;\n\n\t\t// Impose control limits with boxQP\n\t\tVecXd k_i(m);\n\t\tMatXd R(m,m);\n\t\tVecXd free_v(m);\n\n\t\t// std::cout << \"inputs: \\n\";\n\t\t// std::cout << \"QuuF: \\n\" << QuuF << '\\n';\n\t\t// std::cout << \"Qu: \\n\" << Qu << '\\n';\n\t\t// std::cout << \"k: \\n\" << k[std::min(i+1,T-1)] << '\\n';\n\t\t// std::cout << i+1 << ' ' << T-1 << '\\n';\n\n\t\tint result = boxQP(QuuF,Qu,k[std::min(i+1,T-1)],  k_i,R,free_v);\n\n\t\t// std::cout << \"k_i: \\n\" << k_i << '\\n';\n\n\t\tif (result<1){\n\t\t\treturn i;\n\t\t}\n\n\t\tif (free_v.any()){\n\t\t\tMatXd Lfree(m,n);\n\t\t\tLfree = -R.inverse() * (R.transpose().inverse()*rows_w_ind(Qux_reg, free_v));\n\t\t\t// TODO fix this hack\n\t\t\tif(free_v[0]==1 && free_v[1]==1){\n\t\t\t\tK_i = Lfree;\n\t\t\t}\n\t\t\telse if (free_v[0]==1){\n\t\t\t\tK_i.row(0) = Lfree;\n\t\t\t}\n\t\t\telse if (free_v[1]==1){\n\t\t\t\tK_i.row(1) = Lfree;\n\t\t\t}\n\t\t}\n\n\t\t// std::cout << \"K_i: \\n\" << K_i << '\\n';\n\n\t\t// update cost-to-go approximation\n\t\tdV(0) += k_i.transpose()*Qu;\n\t\tdV(1) += 0.5*k_i.transpose()*Quu*k_i;\n\n\t\tVx[i]  = Qx  + K_i.transpose()*Quu*k_i + K_i.transpose()*Qu + Qux.transpose()*k_i;\n\t\tVxx[i] = Qxx + K_i.transpose()*Quu*K_i + K_i.transpose()*Qux + Qux.transpose()*K_i;\n\t\tVxx[i] = 0.5 * (Vxx[i] + Vxx[i].transpose());\n\n\t\t// std::cout << \"Vx: \\n\" << Vx[i] << '\\n';\n\t\t// std::cout << \"Vxx: \\n\" << Vxx[i] << '\\n';\n\t\t//\n\t\t// std::cout << \"\\n-------------\\n\";\n\t\t// std::cout << \"K_i: \\n\" << K_i << '\\n';\n\t\t// getchar();\n\n    // save controls/gains\n    k[i]     = k_i;\n    K[i]     = K_i;\n\t}\n\n\treturn 0;\n}",
+			"settings":
+			{
+				"buffer_size": 3532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hemant/iLQR_onboard/CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 473,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hemant/lqRRT/demos/demo_boat_intermediate.py",
+			"settings":
+			{
+				"buffer_size": 13449,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/home/hemant/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control:In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hemant/Documents/install-ompl-ubuntu.sh",
+		"/home/hemant/lqr_rrt/src/lqRRT/demos/lqrrt_ros/behaviors/car.py",
+		"/home/hemant/gur.txt",
+		"/home/hemant/lqr_rrt/src/lqRRT/lqrrt/constraints.py",
+		"/home/hemant/Videos/1.h",
+		"/home/hemant/Videos/bbox.cpp",
+		"/home/hemant/mot1/src/main.cpp",
+		"/home/hemant/Documents/square.cu",
+		"/home/hemant/Documents/CUDA/src/mot-hemant/src/clustering1.cpp",
+		"/home/hemant/Documents/CUDA/we.cpp",
+		"/home/hemant/Documents/CUDA/motionestimation_copy.cpp",
+		"/home/hemant/Documents/CUDA/src/mot-hemant/src/clustering2.cpp",
+		"/home/hemant/Documents/CUDA/qw.cpp",
+		"/home/hemant/Documents/CUDA/solver.cu",
+		"/home/hemant/Documents/CUDA/final.cu",
+		"/home/hemant/Documents/CUDA/om.cu",
+		"/home/hemant/Documents/CUDA/solver2.cpp",
+		"/home/hemant/Documents/CUDA/solver.cpp",
+		"/home/hemant/Desktop/HPSC/16D100011_Assignment1/montecarlo_ass2.cpp",
+		"/home/hemant/Desktop/HPSC/16D100011_Assignment1/trapezoid_ass2.cpp",
+		"/home/hemant/hemant/src/object_tracking/src/main.cpp",
+		"/home/hemant/Videos/main.cpp",
+		"/home/hemant/Videos/ukf.cpp",
+		"/home/hemant/Videos/1.cpp",
+		"/home/hemant/.bashrc"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 750.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/hemant/iLQR_onboard/CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/hemant/lqRRT/demos/demo_boat_intermediate.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9733,
+								9733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6174.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/hemant/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "libfunctions.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
